@@ -7,7 +7,7 @@ import Projects from "./components/Projects";
 import Contacts from "./components/Contacts";
 const App = () => {
   return (
-    <div className=" min-h-screen overflow-x-hidden text-neutral-300 antialiased slection:bg-cyan-300 selection:text-cyan-900">
+    <div className=" min-h-screen overflow-x-hidden text-neutral-300 antialiased selection:bg-cyan-300 selection:text-cyan-900">
       <div className="fixed inset-0 z-[-1] h-full w-full">
         <div
           className="absolute top-0 z-[-2] h-screen w-screen bg-[#9461A3] 
