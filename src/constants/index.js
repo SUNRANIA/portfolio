@@ -1,4 +1,4 @@
-import project1 from "../assets/Builderapp.jpeg";
+import project1 from "../assets/builderapp.jpeg";
 import project2 from "../assets/projects/project-2.jpg";
 import project3 from "../assets/portfapp.jpeg";
 import project4 from "../assets/jewapp.jpeg";
